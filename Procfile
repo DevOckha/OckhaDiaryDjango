@@ -1,0 +1,1 @@
+web: gunicorn ockha_diary.wsgi

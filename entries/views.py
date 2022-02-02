@@ -29,3 +29,5 @@ def add(request):
     context = {'form':form}
 
     return render(request, 'entries/add.html', context)
+
+
